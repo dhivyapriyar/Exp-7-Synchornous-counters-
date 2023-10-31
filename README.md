@@ -168,7 +168,7 @@ endmodule
 
 ### Upcounter Waveform:
 
-![de6 3](https://github.com/dhivyapriyar/Exp-7-Synchornous-counters-/assets/119477552/8ca3e998-aa15-47d8-812a-af2bcd85eea7)
+![four](https://github.com/dhivyapriyar/Exp-7-Synchornous-counters-/assets/119477552/6bb92305-ca72-412d-a8d1-bacfc86e2a8a)
 
 ### Downcounter Waveform:
 
